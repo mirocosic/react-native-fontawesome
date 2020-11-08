@@ -169,6 +169,7 @@ declare const Icons: {
     caretUp: string;
     cartArrowDown: string;
     cartPlus: string;
+    cat: string;
     ccAmazonPay: string;
     ccAmex: string;
     ccApplePay: string;

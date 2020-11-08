@@ -175,6 +175,7 @@ const Icons = {
   caretUp: "\uf0d8",
   cartArrowDown: "\uf218",
   cartPlus: "\uf217",
+  cat: "\uf6be",
   ccAmazonPay: "\uf42d",
   ccAmex: "\uf1f3",
   ccApplePay: "\uf416",
